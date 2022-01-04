@@ -23,5 +23,5 @@ On this project a pre-trained BERT Model was taken from Hugging Face, specifical
 # Bank Churners Prediction
 On this project we capture data from Kaggle, perform Exploratory Data Analysis, cleaning, feature engineering, categorical encoding and use the data to train different Tree Models, use cross validation to find the one with the best performance and fine tune the parameters.
 <p align='center'>
- <img width="360" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148121268-afedee1d-2573-49d0-a7f3-cfb338a47e67.png">
+ <img width="480" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148121268-afedee1d-2573-49d0-a7f3-cfb338a47e67.png">
 </p>
