@@ -14,7 +14,7 @@ predicted class with its accuracy.
 The trained model is then loaded into Google Cloud Platform, connected with the FastAPI to get
 predictions with a cloud server and tested with Postman.
 
-# Sentiment Analysis on Movies Reviews [Source code](https://github.com/colivarese/Sentiment-Analysis-with-BERT-and-Web-Scrapping/blob/main/Sentiment_Analysis_using_BERT.ipynb)
+# Sentiment Analysis on Movies Reviews ###[Source code](https://github.com/colivarese/Sentiment-Analysis-with-BERT-and-Web-Scrapping/blob/main/Sentiment_Analysis_using_BERT.ipynb)
 On this project a pre-trained BERT Model was taken from Hugging Face, specifically a Multilingual uncased sentiment to assign a value to a sentence given on the sentiment of the text. Data was retrieved from the popular website RottenTomatoes using the Request Dependency, processed with the BeautifulSoup library and RegEx, finally formatted on a Pandas DataFrame.
 <p align='center'>
  <img width="360" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148017280-018bf722-a535-4a79-91b0-5d006fc17d3a.jpeg">
