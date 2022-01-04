@@ -14,3 +14,9 @@ predicted class with its accuracy.
 The trained model is then loaded into Google Cloud Platform, connected with the FastAPI to get
 predictions with a cloud server and tested with Postman.
 
+# Sentiment Analysis on Movies Reviews
+On this project a pre-trained BERT Model was taken from Hugging Face, specifically a Multilingual uncased sentiment to assign a value to a sentence given on the sentiment of the text. Data was retrieved from the popular website RottenTomatoes using the Request Dependency, processed with the BeautifulSoup library and RegEx, finally formatted on a Pandas DataFrame.
+<p align='center'>
+<img width="180" alt="Captura de Pantalla 2021-12-22 a la(s) 0 21 26" src="https://user-images.githubusercontent.com/80273045/148016857-61fec97d-d687-45cc-9d0a-fdcbf4e21292.png">
+</p>
+
