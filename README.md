@@ -32,8 +32,10 @@ On this project we capture data from Kaggle, perform Exploratory Data Analysis, 
     </p> -->
 
 * [MNIST Digit Generator with GANs 🔢🤖](https://github.com/colivarese/MNIST-Digit-Generator): 
-On this project we take the popular MNIST dataset which consists of tens of thousands images of hand written digits, design a Generative Adversarial Network, train it on the dataset to generate more realistic digits on every epoch.
+    On this project we take the popular MNIST dataset which consists of tens of thousands images of hand written digits, design a Generative Adversarial Network, train it on the dataset to generate more realistic digits on every epoch.
 
+* [Text Generator using LSTM 📝🪄](https://github.com/colivarese/Text-Generator-using-LSTM):
+    On this project we train a Long-Short Term Memory Neural Network using Tensorflow on the popular book Alice In Wonderland to generate text given an input, we can see how the model is behaving on each run!
 ## From Scratch Algorithms:
 * [DBSCAN Algorithm](https://github.com/colivarese/DBSCAN-Scratch-Python)  
 * [K-Means](https://github.com/colivarese/K-Means-Scratch-Python-)
