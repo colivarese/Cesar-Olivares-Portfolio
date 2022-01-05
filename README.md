@@ -1,16 +1,3 @@
-<!-- Default sidebar -->
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    ...
-  </div>
-</div>
-
-<!-- Modified sidebar -->
-<div class="sidebar">
-  <div class="container">
-    ...
-  </div>
-</div>
 
 ## Cesar Olivares
 This is my portfolio of Data Science/Machine Learning projects.<br>
