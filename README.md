@@ -1,6 +1,6 @@
 
 ## Cesar Olivares
-This is my portfolio of Data Science/Machine Learning projects.<br>
+This is my portfolio of Data Science/Machine Learning projects.
 [Portfolio](https://colivarese.github.io/Portfolio/)
 
 * Potato Leaves Disease Classification on Google Cloud 🥔🥬🍂: 
@@ -17,14 +17,14 @@ This is my portfolio of Data Science/Machine Learning projects.<br>
 
 
 
-* [Sentiment Analysis on Movies Reviews 😃🤬🍿](https://github.com/colivarese/Sentiment-Analysis-with-BERT-and-Web-Scrapping/blob/main/Sentiment_Analysis_using_BERT.ipynb): <br>
+* [Sentiment Analysis on Movies Reviews 😃🤬🍿](https://github.com/colivarese/Sentiment-Analysis-with-BERT-and-Web-Scrapping/blob/main/Sentiment_Analysis_using_BERT.ipynb):
     On this project a pre-trained BERT Model was taken from Hugging Face, specifically a Multilingual uncased sentiment to assign a value to a sentence given on the sentiment of the text. Data was retrieved from the popular website RottenTomatoes using the Request Dependency, processed with the BeautifulSoup library and RegEx, finally formatted on a Pandas DataFrame. 
     <!--
     <p align='center'>
      <img width="360" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148017280-018bf722-a535-4a79-91b0-5d006fc17d3a.jpeg">
     </p> -->
 
-* [Bank Churners Prediction using Tree's Algorithms 🏦💳🌳] (https://www.kaggle.com/csarolivares/credit-card-customers-eda-modeling/notebook): <br>
+* [Bank Churners Prediction using Tree's Algorithms 🏦💳🌳] (https://github.com/colivarese/Bank-Churners-Prediction-): <br>
 On this project we capture data from Kaggle, perform Exploratory Data Analysis, cleaning, feature engineering, categorical encoding and use the data to train different Tree Models, use cross validation to find the one with the best performance and fine tune the parameters. 
 <!--
 <p align='center'>
