@@ -1,5 +1,5 @@
 
-<img width="240" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src='https://user-images.githubusercontent.com/80273045/148165701-b1ae6ad4-48c3-48a4-ab2e-8f292d5dab78.jpg'>
+<div align="center"> <img width="240" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src='https://user-images.githubusercontent.com/80273045/148165701-b1ae6ad4-48c3-48a4-ab2e-8f292d5dab78.jpg'> </div>
 
 # About me:
 Hi, my name is Cesar Olivares Espinosa, I'm currently enrolled on a Master's programme on Computer Engineering Sciences, focusing on Data Science, Computer Vision and Machine/Deep Learning, I enjoy building projects on this topics and learning everyday. I have a Biomedical Engineer Degree where I find about image processing and thats what's brought me here!
