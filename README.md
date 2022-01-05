@@ -2,6 +2,7 @@
 ## Cesar Olivares
 <div align="center">This is my portfolio of Data Science/Machine Learning projects.</div>
 [Portfolio](https://colivarese.github.io/Portfolio/)
+
 # Projects: 
 * [Potato Leaves Disease Classification on Google Cloud 🥔🥬🍂](https://github.com/colivarese/Potato-Disease-Classification): 
     On this project a Convolutional Neural Network model is trained using images from potato leaves,
