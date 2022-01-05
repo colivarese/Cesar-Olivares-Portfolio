@@ -17,8 +17,6 @@ Hi, my name is Cesar Olivares Espinosa, I'm currently enrolled on a Master's pro
         <img width="120" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148007912-17dc44c5-2dc6-44fa-9126-0e345ffda445.png"> <img width="120" alt="Captura de Pantalla 2022-01-03 a la(s) 19 40 20" src="https://user-images.githubusercontent.com/80273045/148008320-02b47121-1c63-4eca-84c2-4f2a8664b7bf.png">
         </p> -->
 
-
-
 * [Sentiment Analysis on Movies Reviews 😃🤬🍿](https://github.com/colivarese/Sentiment-Analysis-with-BERT-and-Web-Scrapping/blob/main/Sentiment_Analysis_using_BERT.ipynb):
     On this project a pre-trained BERT Model was taken from Hugging Face, specifically a Multilingual uncased sentiment to assign a value to a sentence given on the sentiment of the text. Data was retrieved from the popular website RottenTomatoes using the Request Dependency, processed with the BeautifulSoup library and RegEx, finally formatted on a Pandas DataFrame. 
         <!--
@@ -41,3 +39,22 @@ On this project we capture data from Kaggle, perform Exploratory Data Analysis, 
 * [SVM](https://github.com/colivarese/SVM-Scratch-Python)
 * [Naive Bayes](https://github.com/colivarese/Naive-Bayes-Python-Implementation)
 * [ID3 Algorithm](https://github.com/colivarese/ID3-Algorithm-Implementation)
+
+## Kaggle:
+* TensorFlow - Help Protect the Great Barrier Reef🐠: Detect crown-of-thorns starfish in underwater image data, currently using YOLOv5 and YOLOx to train the model.
+* Feedback Prize - Evaluating Student Writing Analyze📝 argumentative writing elements from students grade 6-12, currently uing a BERT BigBird Model to find the discourse type.
+
+## Technologies:
+* Python
+* R
+* Java
+* MATLAB
+* GitHub
+* SQL
+* OpenCv
+* Pandas
+* Matplotlib
+* SkLearn
+* TensorFlow
+* PyTorch
+* Google Colab
