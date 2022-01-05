@@ -1,7 +1,8 @@
 ## Cesar Olivares
 This is my portfolio of Data Science/Machine Learning projects. 
 
-# Potato Leaves Disease Classification on Google Cloud ![Portfolio](https://colivarese.github.io/Portfolio/)
+# Potato Leaves Disease Classification on Google Cloud 
+![Portfolio](https://colivarese.github.io/Portfolio/)
 On this project a Convolutional Neural Network model is trained using images from potato leaves,
 with three clases, healthy and two with diseases. The model achieves an accuracy around 0.95.
 The model is used in a React local webpage having a drag and drop function, which returns the
