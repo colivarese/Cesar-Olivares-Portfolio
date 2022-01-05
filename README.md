@@ -34,3 +34,6 @@ On this project we capture data from Kaggle, perform Exploratory Data Analysis, 
 * [MNIST Digit Generator with GANs 🔢🤖](https://github.com/colivarese/MNIST-Digit-Generator): 
 On this project we take the popular MNIST dataset which consists of tens of thousands images of hand written digits, design a Generative Adversarial Network, train it on the dataset to generate more realistic digits on every epoch.
 
+## From Scratch Algorithms:
+    *   hola   
+    *   adios
