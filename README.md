@@ -1,5 +1,4 @@
 
-## Cesar Olivares
 <div align="center">This is my portfolio of Data Science/Machine Learning projects.</div>
 
 # About me:
