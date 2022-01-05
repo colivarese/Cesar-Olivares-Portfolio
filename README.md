@@ -1,7 +1,9 @@
 
 ## Cesar Olivares
 <div align="center">This is my portfolio of Data Science/Machine Learning projects.</div>
-[Portfolio](https://colivarese.github.io/Portfolio/)
+
+# About me:
+Hi, my name is Cesar Olivares Espinosa, I'm currently enrolled on a Master's programme on Computer Engineering Sciences, focusing on Data Science, Computer Vision and Machine/Deep Learning, I enjoy building projects on this topics and learning everyday. I have a Biomedical Engineer Degree where I find about image processing and thats what's brought me here!
 
 # Projects: 
 * [Potato Leaves Disease Classification on Google Cloud 🥔🥬🍂](https://github.com/colivarese/Potato-Disease-Classification): 
