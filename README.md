@@ -10,10 +10,10 @@ This is my portfolio of Data Science/Machine Learning projects.
     predicted class with its accuracy.
     The trained model is then loaded into Google Cloud Platform, connected with the FastAPI to get
     predictions with a cloud server and tested with Postman.
-    <!--
-    <p align="center">
-    <img width="360" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148007912-17dc44c5-2dc6-44fa-9126-0e345ffda445.png"> <img width="360" alt="Captura de Pantalla 2022-01-03 a la(s) 19 40 20" src="https://user-images.githubusercontent.com/80273045/148008320-02b47121-1c63-4eca-84c2-4f2a8664b7bf.png">
-    </p> -->
+        <!--
+        <p align="center">
+        <img width="120" alt="Captura de Pantalla 2022-01-03 a la(s) 19 39 26" src="https://user-images.githubusercontent.com/80273045/148007912-17dc44c5-2dc6-44fa-9126-0e345ffda445.png"> <img width="120" alt="Captura de Pantalla 2022-01-03 a la(s) 19 40 20" src="https://user-images.githubusercontent.com/80273045/148008320-02b47121-1c63-4eca-84c2-4f2a8664b7bf.png">
+        </p> -->
 
 
 
