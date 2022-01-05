@@ -35,9 +35,9 @@ On this project we capture data from Kaggle, perform Exploratory Data Analysis, 
 On this project we take the popular MNIST dataset which consists of tens of thousands images of hand written digits, design a Generative Adversarial Network, train it on the dataset to generate more realistic digits on every epoch.
 
 ## From Scratch Algorithms:
-    * [DBSCAN Algorithm](https://github.com/colivarese/DBSCAN-Scratch-Python)  
-    * [K-Means](https://github.com/colivarese/K-Means-Scratch-Python-)
-    * [K-Modes](https://github.com/colivarese/K-Modes-Scratch-Python)
-    * [SVM](https://github.com/colivarese/SVM-Scratch-Python)
-    * [Naive Bayes](https://github.com/colivarese/Naive-Bayes-Python-Implementation)
-    * [ID3 Algorithm](https://github.com/colivarese/ID3-Algorithm-Implementation)
+* [DBSCAN Algorithm](https://github.com/colivarese/DBSCAN-Scratch-Python)  
+* [K-Means](https://github.com/colivarese/K-Means-Scratch-Python-)
+* [K-Modes](https://github.com/colivarese/K-Modes-Scratch-Python)
+* [SVM](https://github.com/colivarese/SVM-Scratch-Python)
+* [Naive Bayes](https://github.com/colivarese/Naive-Bayes-Python-Implementation)
+* [ID3 Algorithm](https://github.com/colivarese/ID3-Algorithm-Implementation)
